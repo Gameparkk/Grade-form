@@ -1,2 +1,2 @@
 # Grade-form
-這是一個我用內建框架Swing的JAVA日程表
+This is the result form I made with JAVA SWING.
